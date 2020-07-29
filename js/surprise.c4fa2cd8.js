@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["surprise"],{1763:function(n,t,e){},"489d":function(n,t,e){"use strict";e.r(t);var s=function(){var n=this,t=n.$createElement,e=n._self._c||t;return e("div",{staticClass:"surprise animated"},[n._v("\n  这个人很懒，什么都没写。。。\n")])},a=[],u={data:function(){return{}},methods:{},mounted:function(){}},i=u,r=(e("f83e"),e("e90a")),c=Object(r["a"])(i,s,a,!1,null,"ea7c3b96",null);t["default"]=c.exports},f83e:function(n,t,e){"use strict";var s=e("1763"),a=e.n(s);a.a}}]);
+//# sourceMappingURL=surprise.c4fa2cd8.js.map
